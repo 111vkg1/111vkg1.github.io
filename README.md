@@ -1,5 +1,7 @@
 # Main page of [111vkg1.github.io](111vkg1.github.io)
 
+[Читать на русском](/ru/READMEru.md)
+
 > ## What is this site for?
 > This site contains links and information
 > about my projects that I have worked on
@@ -15,3 +17,5 @@ soon release the open source code.
   I'm constantly expanding my programming knowledge. I work most often with C++ 
 and SDL2/SDL3, but I'm also learning Kotlin for Android Studio and Java. 
 *You can view all my published projects and their code on my main github page.*
+
+*Find out more about all projects on the [Projects page.](/projects/main.md)*
